@@ -547,3 +547,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.08-15.25.13:010][272]LogSlate: Took 0.011215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2019.12.08-15.25.13:055][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pauls\Downloads\TexturesCom_AnimalsVarious0048_1_M.jpg)
 [2019.12.08-15.25.13:154][272]LogTexture: Display: Building textures: TexturesCom_AnimalsVarious0048_1_M (BGRA8, 1600X1066)
+[2019.12.08-15.31.44:022][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.12.08-15.31.44:022][304]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.079
+[2019.12.08-15.31.44:025][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/TexturesCom_AnimalsVarious0048_1_M] ([1] browsable assets)...
+[2019.12.08-15.31.44:065][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/TexturesCom_AnimalsVarious0048_1_M.TexturesCom_AnimalsVarious0048_1_M]
+[2019.12.08-15.31.44:065][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/TexturesCom_AnimalsVarious0048_1_M]
+[2019.12.08-15.31.44:098][304]LogSavePackage: Moving '../../../../../../Users/pauls/Documents/GitHub/FPS-PortfolioScene/FPS_Scene/Saved/TexturesCom_AnimalsVarious0048_158560FC44668C128E697DEAA89B1198E.tmp' to '../../../../../../Users/pauls/Documents/GitHub/FPS-PortfolioScene/FPS_Scene/Saved/Autosaves/Game/Textures/TexturesCom_AnimalsVarious0048_1_M_Auto1.uasset'
+[2019.12.08-15.31.44:100][304]LogFileHelpers: Auto-saving content packages took 0.077
+[2019.12.08-15.46.09:153][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.08-15.46.10:941][920]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.08-15.46.11:337][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
